@@ -1,6 +1,6 @@
-# Simulador Inteligente de Entrevistas
+# Criando o Mentor de Carreira
 
-# 🧑‍💻 Entrevista de Carreira em Tecnologia
+# 🧑‍💻 Roteiro de Carreira
 
 ## Pergunta 1
 **O que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas?**  

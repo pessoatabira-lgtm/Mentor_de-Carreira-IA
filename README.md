@@ -107,5 +107,3 @@ Em crescimento acelerado, especialmente em empresas que investem em inovação. 
 
 ---
 
-# ❓ Próximo Passo
-**Qual dessas carreiras te chamou mais atenção?**
